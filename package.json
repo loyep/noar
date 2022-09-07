@@ -1,0 +1,22 @@
+{
+  "name": "noar",
+  "version": "0.0.0",
+  "description": "noar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loyep/noar.git"
+  },
+  "keywords": [
+    "noar"
+  ],
+  "author": "Zack <mwl@live.com> (https://github.com/loyep)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loyep/noar/issues"
+  },
+  "homepage": "https://github.com/loyep/noar#readme"
+}
